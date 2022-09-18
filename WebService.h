@@ -14,5 +14,4 @@ public:
 
   static void Begin();
 };
-
 #endif
